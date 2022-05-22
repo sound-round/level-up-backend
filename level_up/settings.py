@@ -39,6 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'level_up.users',
+    'level_up.parameters',
+    'level_up.BaseModel',
 ]
 
 MIDDLEWARE = [
